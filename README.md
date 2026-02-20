@@ -27,3 +27,10 @@ If these principles are violated, the project should stop.
 - Sources may be biased
 
 All sources and reasoning are visible so conclusions can be challenged.
+## Project Status
+
+This project is currently a design and specification effort.
+
+No production implementation exists yet.
+
+The goal is to clarify whether a constrained, non-authoritative AI system for claim uncertainty can exist before building software.
